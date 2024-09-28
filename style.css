@@ -33,6 +33,7 @@ select {
   background-color: #fff;
   margin-left: 5px;
   border-radius: 5px;
+  font-size: 14px;
 }
 
 select:focus,
