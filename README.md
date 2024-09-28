@@ -1,4 +1,5 @@
 # Speed Typer
+[🌐LIVE](https://devmaverickmb.github.io/speed-typer/)
 
 Speed Typer is an engaging web-based typing game that challenges users to type random words as quickly and accurately as possible. Test your typing prowess while racing against the clock in this fast-paced, skill-enhancing game!
 
